@@ -1,13 +1,14 @@
 # FitPulse
 
 **Tagline:** “Transform your energy. Transform your life.”
+
 A modern fitness landing page built to motivate users toward a healthier lifestyle, featuring smooth sections, call-to-action elements, and engaging visuals.
 
 ---
 
 ## 🚀 Github Demo
 
-[View Here](https://yourcode-jd.github.io/AI/)
+[View Here](https://yourcode-jd.github.io/Fitness/)
 
 ---
 
