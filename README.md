@@ -8,7 +8,7 @@ A modern fitness landing page built to motivate users toward a healthier lifesty
 
 ## 🚀 Github Demo
 
-[View Here](https://yourcode-jd.github.io/Fitness/)
+[View Here](https://yourcode-jd.github.io/FitPulse/)
 
 ---
 
